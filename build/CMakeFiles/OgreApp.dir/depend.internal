@@ -156,8 +156,12 @@ CMakeFiles/OgreApp.dir/BaseApplication.cpp.o
  /usr/local/include/OGRE/Threading/OgreThreadHeadersPoco.h
  /usr/local/include/OGRE/Threading/OgreThreadHeadersSTD.h
  /usr/local/include/OGRE/Threading/OgreThreadHeadersTBB.h
+CMakeFiles/OgreApp.dir/Sound.cpp.o
+ /home/martin/programming/c/space_ranger_ogre/Sound.cpp
+ /home/martin/programming/c/space_ranger_ogre/Sound.h
 CMakeFiles/OgreApp.dir/TutorialApplication.cpp.o
  /home/martin/programming/c/space_ranger_ogre/BaseApplication.h
+ /home/martin/programming/c/space_ranger_ogre/Sound.h
  /home/martin/programming/c/space_ranger_ogre/TutorialApplication.cpp
  /home/martin/programming/c/space_ranger_ogre/TutorialApplication.h
  /usr/include/ois/OIS.h

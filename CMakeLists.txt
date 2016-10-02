@@ -99,10 +99,11 @@ set(HDRS
 	./TutorialApplication.h
 )
  
-set(SRCS
-	./BaseApplication.cpp
-	./TutorialApplication.cpp
-)
+#set(SRCS
+#	./BaseApplication.cpp
+	#./TutorialApplication.cpp
+#)
+file(GLOB SRCS *.cpp)
  
 include_directories( ${OIS_INCLUDE_DIRS}
 	${OGRE_INCLUDE_DIRS}
