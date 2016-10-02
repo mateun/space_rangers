@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/martin/programming/c/space_ranger_ogre/BaseApplication.cpp" "/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/OgreApp.dir/BaseApplication.cpp.o"
+  "/home/martin/programming/c/space_ranger_ogre/Sound.cpp" "/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/OgreApp.dir/Sound.cpp.o"
   "/home/martin/programming/c/space_ranger_ogre/TutorialApplication.cpp" "/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/OgreApp.dir/TutorialApplication.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -36,8 +36,6 @@ protected:
 	virtual void destroyScene();
 
 	float rotY = 0;
-	ALCdevice* _soundDevice;
-	ALCcontext* _soundContext;
 	
 };
 

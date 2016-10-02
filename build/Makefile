@@ -194,6 +194,33 @@ BaseApplication.cpp.s:
 	$(MAKE) -f CMakeFiles/OgreApp.dir/build.make CMakeFiles/OgreApp.dir/BaseApplication.cpp.s
 .PHONY : BaseApplication.cpp.s
 
+Sound.o: Sound.cpp.o
+
+.PHONY : Sound.o
+
+# target to build an object file
+Sound.cpp.o:
+	$(MAKE) -f CMakeFiles/OgreApp.dir/build.make CMakeFiles/OgreApp.dir/Sound.cpp.o
+.PHONY : Sound.cpp.o
+
+Sound.i: Sound.cpp.i
+
+.PHONY : Sound.i
+
+# target to preprocess a source file
+Sound.cpp.i:
+	$(MAKE) -f CMakeFiles/OgreApp.dir/build.make CMakeFiles/OgreApp.dir/Sound.cpp.i
+.PHONY : Sound.cpp.i
+
+Sound.s: Sound.cpp.s
+
+.PHONY : Sound.s
+
+# target to generate assembly for a file
+Sound.cpp.s:
+	$(MAKE) -f CMakeFiles/OgreApp.dir/build.make CMakeFiles/OgreApp.dir/Sound.cpp.s
+.PHONY : Sound.cpp.s
+
 TutorialApplication.o: TutorialApplication.cpp.o
 
 .PHONY : TutorialApplication.o
@@ -237,6 +264,9 @@ help:
 	@echo "... BaseApplication.o"
 	@echo "... BaseApplication.i"
 	@echo "... BaseApplication.s"
+	@echo "... Sound.o"
+	@echo "... Sound.i"
+	@echo "... Sound.s"
 	@echo "... TutorialApplication.o"
 	@echo "... TutorialApplication.i"
 	@echo "... TutorialApplication.s"

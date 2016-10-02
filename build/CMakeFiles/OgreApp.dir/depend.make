@@ -156,7 +156,11 @@ CMakeFiles/OgreApp.dir/BaseApplication.cpp.o: /usr/local/include/OGRE/Threading/
 CMakeFiles/OgreApp.dir/BaseApplication.cpp.o: /usr/local/include/OGRE/Threading/OgreThreadHeadersSTD.h
 CMakeFiles/OgreApp.dir/BaseApplication.cpp.o: /usr/local/include/OGRE/Threading/OgreThreadHeadersTBB.h
 
+CMakeFiles/OgreApp.dir/Sound.cpp.o: ../Sound.cpp
+CMakeFiles/OgreApp.dir/Sound.cpp.o: ../Sound.h
+
 CMakeFiles/OgreApp.dir/TutorialApplication.cpp.o: ../BaseApplication.h
+CMakeFiles/OgreApp.dir/TutorialApplication.cpp.o: ../Sound.h
 CMakeFiles/OgreApp.dir/TutorialApplication.cpp.o: ../TutorialApplication.cpp
 CMakeFiles/OgreApp.dir/TutorialApplication.cpp.o: ../TutorialApplication.h
 CMakeFiles/OgreApp.dir/TutorialApplication.cpp.o: /usr/include/ois/OIS.h

@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/OgreApp.dir/BaseApplication.cpp.o"
   "CMakeFiles/OgreApp.dir/TutorialApplication.cpp.o"
+  "CMakeFiles/OgreApp.dir/Sound.cpp.o"
+  "CMakeFiles/OgreApp.dir/BaseApplication.cpp.o"
   "dist/bin/OgreApp.pdb"
   "dist/bin/OgreApp"
 )
