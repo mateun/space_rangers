@@ -96,8 +96,8 @@ void TutorialApplication::createScene(void)
 	WaveInfo *wave;
 	char *bufferData;
 	int ret;
-	//wave = WaveOpenFileForReading("../media/sounds/splat1a.wav");
-	wave = WaveOpenFileForReading("/usr/lib/libreoffice/share/gallery/sounds/space3.wav");
+	wave = WaveOpenFileForReading("../media/sounds/the_other.wav");
+	//wave = WaveOpenFileForReading("/usr/lib/libreoffice/share/gallery/sounds/space3.wav");
 
 	
 
