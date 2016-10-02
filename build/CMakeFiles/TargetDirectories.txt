@@ -1,0 +1,7 @@
+/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/install.dir
+/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/list_install_components.dir
+/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/rebuild_cache.dir
+/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/OgreApp.dir
+/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/install/strip.dir
+/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/install/local.dir
+/home/martin/programming/c/space_ranger_ogre/build/CMakeFiles/edit_cache.dir

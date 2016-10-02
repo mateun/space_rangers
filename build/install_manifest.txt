@@ -1,0 +1,8 @@
+/home/martin/programming/c/space_ranger_ogre/build/dist/.//media/packs/SdkTrays.zip
+/home/martin/programming/c/space_ranger_ogre/build/dist/.//media/models/ogrehead.mesh
+/home/martin/programming/c/space_ranger_ogre/build/dist/.//media/materials/textures/tusk.jpg
+/home/martin/programming/c/space_ranger_ogre/build/dist/.//media/materials/textures/spheremap.png
+/home/martin/programming/c/space_ranger_ogre/build/dist/.//media/materials/textures/GreenSkin.jpg
+/home/martin/programming/c/space_ranger_ogre/build/dist/.//media/materials/scripts/Ogre.material
+/home/martin/programming/c/space_ranger_ogre/build/dist/bin/plugins.cfg
+/home/martin/programming/c/space_ranger_ogre/build/dist/bin/resources.cfg
