@@ -95,7 +95,7 @@ void BaseApplication::createCamera(void)
     mCamera = mSceneMgr->createCamera("PlayerCam");
 
     // Position it at 500 in Z direction
-    mCamera->setPosition(Ogre::Vector3(0,0,80));
+    mCamera->setPosition(Ogre::Vector3(0,10,80));
     // Look back along -Z
     mCamera->lookAt(Ogre::Vector3(0,0,-300));
     mCamera->setNearClipDistance(5);
@@ -132,7 +132,7 @@ void BaseApplication::createFrameListener(void)
     mInputContext.mMouse = mMouse;
     mTrayMgr = new OgreBites::SdkTrayManager("InterfaceName", mWindow, mInputContext, this);
     mTrayMgr->showFrameStats(OgreBites::TL_BOTTOMLEFT);
-    mTrayMgr->showLogo(OgreBites::TL_BOTTOMRIGHT);
+    //mTrayMgr->showLogo(OgreBites::TL_BOTTOMRIGHT);
     mTrayMgr->hideCursor();
 
     // Create a params panel for displaying sample details
@@ -407,7 +407,7 @@ bool BaseApplication::keyReleased(const OIS::KeyEvent &arg)
 bool BaseApplication::mouseMoved(const OIS::MouseEvent &arg)
 {
     if (mTrayMgr->injectPointerMove(arg)) return true;
-    mCameraMan->injectPointerMove(arg);
+    //mCameraMan->injectPointerMove(arg);
     return true;
 }
 //---------------------------------------------------------------------------
