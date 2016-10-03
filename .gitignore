@@ -2,5 +2,5 @@
 *.swo
 *.swn
 *.log
-/build/dist/bin/Ogre.log
+build/dist/bin/Ogre.log
 
